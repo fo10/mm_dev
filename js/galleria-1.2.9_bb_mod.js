@@ -8,7 +8,6 @@
  */
 
 (function( $ ) {
-
 /*global jQuery, navigator, Galleria:true, Image */
 
 // some references
