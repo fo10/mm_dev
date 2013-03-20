@@ -1,0 +1,1006 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"o",
+				"offset"
+			],
+			[
+				"hi",
+				"history"
+			],
+			[
+				"up",
+				"updateNav"
+			],
+			[
+				"ou",
+				"outer_check"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"ea",
+				"easeInOutExpo"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"su",
+				"sub"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"eas",
+				"easeOutExpo"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"mouse",
+				"mouseenter"
+			],
+			[
+				"easeOutE",
+				"easeOutExpo"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"e",
+				"eq"
+			],
+			[
+				"clo",
+				"clouds_"
+			],
+			[
+				"easeOutB",
+				"easeOutBack"
+			],
+			[
+				"h",
+				":hover"
+			],
+			[
+				"fi",
+				"find"
+			],
+			[
+				"r",
+				"relative	(r)"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tool",
+				"tool-button"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"ease",
+				"easeOutQuad"
+			],
+			[
+				"hit_",
+				"hit_icon"
+			],
+			[
+				"hit",
+				"hit-icon"
+			],
+			[
+				"a",
+				"animate"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"gi",
+				"gift_box_link"
+			],
+			[
+				"d",
+				"delay"
+			],
+			[
+				"b",
+				"bind"
+			],
+			[
+				"n",
+				"none	(n)"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"op",
+				"open_slide"
+			],
+			[
+				"close",
+				"close_slide"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"ga",
+				"gallery_id"
+			],
+			[
+				"sw",
+				"switch"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"an",
+				"animate"
+			],
+			[
+				"gallery",
+				"gallery-button"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"z",
+				"z-index: ${1001:$SELECTION};"
+			],
+			[
+				"i",
+				"if	if"
+			],
+			[
+				"ex",
+				"expanded-state"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"fl",
+				"flexslider"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"t",
+				"text-decoration"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"margin-t",
+				"margin-top"
+			],
+			[
+				"multi",
+				"multi-state"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"mul",
+				"multi-strat"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"ho",
+				"hover"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"c-",
+				"c-location"
+			],
+			[
+				"contact",
+				"contact-details"
+			],
+			[
+				"Ge",
+				"Georgia"
+			],
+			[
+				"A",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"H",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"tm",
+				"tmp_day"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"art",
+				"article-container"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"login",
+				"login-form"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4299,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/SQMAC39/Desktop/tmpxpruploads/fb/jquery.fancybox.pack.js",
+		"/Applications/MAMP/htdocs/helea4/media/jquery.scrollorama.js",
+		"/Applications/MAMP/htdocs/helea4/media/jquery.scrolldeck_mod_dev.js",
+		"/Applications/MAMP/htdocs/helea4/media/jquery.scrolldeck_mod_dev_temp.js",
+		"/Applications/MAMP/htdocs/helea4/media/jquery.scrolldeck_mod_dev_newbug.js",
+		"/Applications/MAMP/htdocs/helea4/library-includes/base_new.css",
+		"/Applications/MAMP/htdocs/helea4/media/jquery.scrolldeck_mod_dev.min.js",
+		"/Applications/MAMP/htdocs/helea4/media/jquery.scrolldeck_mod.min.js",
+		"/Applications/MAMP/htdocs/helea4/library-includes/base.css",
+		"/Applications/MAMP/htdocs/helea4/elements/sub_nav_enjoy.php",
+		"/Applications/MAMP/htdocs/helea4/elements/logo.php",
+		"/Applications/MAMP/htdocs/helea4/elements/main_nav.php",
+		"/Applications/MAMP/htdocs/helea4/elements/section_title_enjoy.php",
+		"/Applications/MAMP/htdocs/helea4/media/jquery.scrolldeck_mod_dev_BACKUP.js",
+		"/Applications/MAMP/htdocs/helea4/media/jquery.scrolldeck_mod_dev_new.js",
+		"/Applications/MAMP/htdocs/PLUGIN_galleria_folio/demo.html",
+		"/Applications/MAMP/htdocs/PLUGIN_folio/galleria/plugins/flickr/flickr-demo.html",
+		"/Users/SQMAC39/Downloads/jquery.countdown.package-1.6.1/jquery.countdown.js",
+		"/Users/SQMAC39/Downloads/jquery.countdown.package-1.6.1/countdownBasic.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_IST_SBI/library-includes/buzz.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_IST_SBI/library-includes/tutorialize_l_s.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_IST_SBI/library-includes/easing.min.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_IST_SBI/media/SoundJS.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_IST_SBI/library-includes/FlashPlugin.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_IST_SBI/library-includes/swfobject.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_IST_SBI/library-includes/HTMLAudioPlugin.js\nHTMLAudioPlugin.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_IST_SBI/library-includes/base.css",
+		"/Users/SQMAC39/Desktop/homepage greek trans sublime",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/product.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/main_bu.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/main.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/5_places_test.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/css/5_places_test.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/main_test.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/1_home.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/4_publications.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/css/jquery.bxslider.css",
+		"/Users/SQMAC39/Desktop/supersized_settings.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/main_prod_mod.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/googlemapmarks.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/css/5_places.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/5_places.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/anothos_plugins.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/css/0_intro.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/intro_home.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/background: url(\"..:media:HOME_emblem.gif\") no-r",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/css/prod.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/css/3_story.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/main copy.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/2_product.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/main_parallax_intro_test.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/modernizr-2.5.3.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/places.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/plax.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/story.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/vilioud.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/3_the_story.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/6_contact.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/index.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/css/1_home.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/css/6_contact.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/css/base.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/css/fonts.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/css/nav.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/css/nav.less",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/css/style.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/gmap3.min.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/home.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/contact.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/jquery.easing.1.3.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_GEORGE/js/jquery.contentcarousel.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_3/js/anothos_plugins_min.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_2/index.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_2/2_product.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_2/js/product.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_2/js/main.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_2/js/home.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_2/js/intro_home.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_2/1_home.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_2/3_the_story.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_2/5_places.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_2/css/prod.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL_2/js/story.js",
+		"/Users/SQMAC39/Library/Application Support/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/css/2_product.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/css/prod.less",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/css/style.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/css/product_gallery.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/js/carousel_adjust.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/js/product.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/3_the_story.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/css/3_story.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/js/main.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/css/product_gallery",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/js/story.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/css/nav.less",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/3_the_story_backuptemp.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/js/story_bu.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/css/base.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/css/fonts.css",
+		"/Volumes/WORK/Clients/BLU LOGISTICS/05_Website/BBL_BluLogistics_Dora2/css/layout.css",
+		"/Volumes/WORK/Clients/BLU LOGISTICS/05_Website/BBL_BluLogistics_Dora2/css/base.css",
+		"/Users/SQMAC39/Desktop/vilioud.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/1_home.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/AN_FINAL/5_places.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBL_stilotex/infa.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBL_stilotex/js/jquery.scrolldeck_mod_dev.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBL_stilotex/js/jquery.scrolldeck_mod_min.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBL_stilotex/bebe.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBL_stilotex/js/jquery.scrolldeck_mod_dev_BACKUPBROKE.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBL_stilotex/js/jquery.scrolldeck.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBL_stilotex/js/script.js",
+		"/Volumes/WORK/Clients/BLU LOGISTICS/05_Website/BBL_BluLogistics_FINAL/css/layout.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/final_no_parallax/product.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/final_no_parallax/js/jquery.ui.touch-punch.min.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/final_no_parallax/1_home.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/final_no_parallax/0_template.html",
+		"/Volumes/WORK/Clients/ANOTHOS/05_Website/anothos_basic_structure_4/css/fonts.css",
+		"/Volumes/WORK/Clients/ANOTHOS/05_Website/anothos_basic_structure_4/index_final.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/final_no_parallax/css/1_home.css",
+		"/Volumes/WORK/Clients/ANOTHOS/05_Website/anothos_basic_structure_4/css/style.css",
+		"/Volumes/WORK/Clients/ANOTHOS/05_Website/anothos_basic_structure_4/js/main.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/final_no_parallax/css/nav.less",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/final_no_parallax/js/main.js",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/final_no_parallax/css/style.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/final_no_parallax/css/base.css",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/final_no_parallax/home.html",
+		"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BBA_Anothos/final_no_parallax/css/nav.css"
+	],
+	"find":
+	{
+		"height": 60.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"\n ",
+			"Fotis Mastichiadis ",
+			"Time entry",
+			"22 Mar 2013",
+			"290px",
+			"blog",
+			"1063",
+			"template_element_instance_id",
+			"\n",
+			" ",
+			"template_element_instance_id",
+			"<a",
+			"1067",
+			"67",
+			"template_element_instance_id",
+			"Antioxidants and  Polyphenol",
+			"blog",
+			"slides",
+			"hasClass('blog'",
+			"myscrolldeck",
+			"scrollorama",
+			"myscrolldeck",
+			"myscrolldeck() ",
+			"scrollor",
+			"getElementById",
+			"wheelMove",
+			"spou",
+			"swipe",
+			"init",
+			"scrolld",
+			"template_element_instance_id",
+			"p>",
+			"p",
+			"url('",
+			"url",
+			"disableSelection",
+			"swipe",
+			"preventd",
+			"data-fancybox-group",
+			"browser",
+			"(",
+			"if",
+			"browser",
+			"msie",
+			"browser",
+			"fancybox-opened",
+			"fancy",
+			"device",
+			"class",
+			"iphone",
+			".ios-device-p",
+			"checkOrientation",
+			"ios",
+			"dev",
+			"window",
+			"init",
+			"console",
+			"init",
+			"init()",
+			"device",
+			"ipad",
+			"if",
+			"init",
+			"settime",
+			"swipe",
+			"	\n",
+			"AM",
+			"Am",
+			"AM",
+			"Am",
+			"AM",
+			"PM",
+			"	Oct 24, 2012 2:29 PM	",
+			"\n    Editing\n    Article Properties\n    Deleting\n    Active\n    Move Down\n    Move Up\n    Preview\n",
+			"\n",
+			"\n	",
+			"Oct 02, 2012 12:01 PM",
+			"\n	",
+			"	Oct 02, 2012 12:02 PM	",
+			"    Editing\n    Article Properties\n    Deleting\n    Active\n    Move Down\n    Move Up\n    Preview",
+			"footer",
+			"offset",
+			"										e.preventDefault();\n",
+			"key",
+			"history",
+			"console",
+			"dau",
+			"h1",
+			"scrollToSlide",
+			"scroll",
+			"block",
+			"here",
+			"block",
+			"html",
+			"after_hash",
+			"hash",
+			"outer_check",
+			"outer",
+			"slide",
+			"outer_check",
+			"block",
+			"animate",
+			"block",
+			"scrollcountr",
+			"test",
+			"html",
+			"animate",
+			"hash",
+			"dev",
+			"outro_anim",
+			"outro_fin_home",
+			"outro_",
+			"header",
+			"outro_anim",
+			"outro",
+			"swipe",
+			"swiper",
+			"outro",
+			"swipe",
+			"console",
+			"onblock",
+			"scrollToSlide",
+			"test",
+			"scrollto",
+			"settime",
+			"updateNav()",
+			"updateNav"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"subpage_landing_transporte_terrestre.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/SQMAC39/Documents/Aptana Studio 3 Workspace/BLUEPALM.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true
+}
