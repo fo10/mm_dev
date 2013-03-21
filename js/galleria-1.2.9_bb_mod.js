@@ -1270,7 +1270,6 @@ Galleria = function() {
                 width: w,
                 height: h
             });
-            // console.log(w);
 
             carousel.max = w;
             carousel.hooks = hooks;
@@ -3063,7 +3062,7 @@ Galleria.prototype = {
             },
 
             onThumbLoad = function( thumb, callback ) {
-
+// thumb.remove();
                 // scale when ready
                 thumb.scale({
                     width:    thumb.data.width,
@@ -3092,6 +3091,7 @@ Galleria.prototype = {
                                 css[ top[ i ] ] = 0;
                                 $( thumb.image ).css( css );
                             }
+                // console.log(measure)
 
                             // cache outer measures
                             thumb[ 'outer' + measure ] = $( thumb.container )[ 'outer' + measure ]( true );
@@ -3171,7 +3171,7 @@ Galleria.prototype = {
 
                 // hide it
                 $container.css( 'visibility', 'hidden' );
-
+console.log(Utils.parseValue( getStyle( 'height' )));
                 thumb.data = {
                     width  : Utils.parseValue( getStyle( 'width' ) ),
                     height : Utils.parseValue( getStyle( 'height' ) ),

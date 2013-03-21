@@ -14,7 +14,8 @@
             fullscreenDoubleTap: !1,
             trueFullscreen: !1,
             _webkitCursor: !1,
-            _animate: !0
+            _animate: !0,
+            thumbheight_overwrite:148 
         },
         init: function (b) {
             Galleria.requires(1.28, "This version of Folio theme requires Galleria version 1.2.8 or later"), this.addElement("preloader", "loaded", "close")
@@ -90,8 +91,9 @@
                                     complete: b.onbrick
                                 })
                             }
-                        }(d, c, j), b * c.delay) : (d.css(j), c.onbrick.call(d)), d.data("height") || d.data("height", d.outerHeight(!0)), g[i] += d.data("height")
-                    }), k = q(g);
+                        }(d, c, j), b * c.delay) : (d.css(j), c.onbrick.call(d)), d.data("height") || d.data("height", 148), g[i] += 148;//console.log(g[i])
+                        //(d, c, j), b * c.delay) : (d.css(j), c.onbrick.call(d)), d.data("height") || d.data("height", d.outerHeight(!0)), g[i] += d.data("height");console.log(d.data("height"))
+                    }), k = q(g); console.log('asdf'+q(g))
                     if (k < 0) return;
                     if (typeof k != "number") return;
                     c.speed ? b.animate({
